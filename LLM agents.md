@@ -22,7 +22,12 @@
 <td><a href="https://github.com/Significant-Gravitas/AutoGPT">code</a></td>
 </tr>
 <tr>
-<td>camel</td>
+<td>AppAgent</td>
+<td>agent操作Android app框架</td>
+<td><a href="https://appagent-official.github.io/">项目</a></td>
+</tr>
+<tr>
+<td>Camel</td>
 <td>多agent角色完成任务、ai society</td>
 <td><a href="https://github.com/camel-ai/camel">code</a></td>
 </tr>
@@ -45,11 +50,6 @@
 <td>Stable Alignment</td>
 <td>agent社交世界</td>
 <td><a href="https://github.com/agi-templar/Stable-Alignment">code</a></td>
-</tr>
-<tr>
-<td>Appagent</td>
-<td>agent操作Android app框架</td>
-<td><a href="https://appagent-official.github.io/">项目</a></td>
 </tr>
 <tr>
 <td>ViperGPT</td>
