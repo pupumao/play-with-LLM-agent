@@ -6,7 +6,8 @@
 <h2 id="agent-一般结构">agent 一般结构</h2>
 <p><img src="https://github.com/Paitesanshi/LLM-Agent-Survey/raw/main/assets/architecture-1.png" alt="四个模块"></p>
 <h2 id="应用">应用</h2>
-<p>app操作、Minecraft玩游戏、操作机器人、代码生成和运行、多模态查询、聊天机器人、各种助手、算命、流程自动化、数字员工、saas</p>
+<p><strong>研究层面</strong>：app操作、Minecraft玩游戏、操作机器人、代码生成和运行、多模态查询<br>
+<strong>落地层面</strong>：角色扮演聊天、写作、工作助手、学习助手（老师）、算命、流程自动化、数字员工、saas</p>
 <h2 id="agent-平台汇总">agent 平台汇总</h2>
 
 <table>
