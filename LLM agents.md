@@ -5,7 +5,31 @@
 
 <h2 id="agent-一般结构">agent 一般结构</h2>
 <p><img src="https://github.com/Paitesanshi/LLM-Agent-Survey/raw/main/assets/architecture-1.png" alt="四个模块"></p>
-<h2 id="agent工作汇总">agent工作汇总</h2>
+<h2 id="应用">应用</h2>
+<p>app操作、Minecraft玩游戏、操作机器人、代码生成和运行、多模态查询、聊天机器人、各种助手、算命、流程自动化、数字员工、saas</p>
+<h2 id="agent-平台汇总">agent 平台汇总</h2>
+
+<table>
+<thead>
+<tr>
+<th>名字</th>
+<th>描述</th>
+<th>地址</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>文心agent平台</td>
+<td></td>
+<td><a href="https://agents.baidu.com/center">link</a></td>
+</tr>
+<tr>
+<td>天工agent</td>
+<td></td>
+<td><a href="https://model-platform-skyagents.tiangong.cn/home/agent">link</a></td>
+</tr>
+</tbody>
+</table><h2 id="agent工作汇总">agent工作汇总</h2>
 
 <table>
 <thead>
@@ -20,6 +44,11 @@
 <td>AutoGPT</td>
 <td>通用</td>
 <td><a href="https://github.com/Significant-Gravitas/AutoGPT">code</a></td>
+</tr>
+<tr>
+<td>ModelScopeGPT</td>
+<td>阿里agent框架</td>
+<td><a href="https://github.com/modelscope/modelscope-agent">code</a></td>
 </tr>
 <tr>
 <td>AppAgent</td>
@@ -138,5 +167,7 @@
 </tr>
 </tbody>
 </table><h2 id="reference">reference</h2>
-<p><a href="https://github.com/Paitesanshi/LLM-Agent-Survey">https://github.com/Paitesanshi/LLM-Agent-Survey</a></p>
+<p><a href="https://github.com/Paitesanshi/LLM-Agent-Survey">https://github.com/Paitesanshi/LLM-Agent-Survey</a><br>
+<a href="https://m.ofweek.com/ai/2024-01/ART-201700-8420-30622541.html">https://m.ofweek.com/ai/2024-01/ART-201700-8420-30622541.html</a><br>
+<a href="https://agents.baidu.com/center">https://agents.baidu.com/center</a></p>
 
